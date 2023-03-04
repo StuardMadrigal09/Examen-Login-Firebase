@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+html,body{
+    height: 100%;
+}
+.inicio{
+
+    display: felx;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+    height: 100%;
+
+}
+
+.body {
+ 
+width: 100%;
+max-width: 330px;
+margin: auto;
+padding: 30px;
+text-align: center;
+
+    }
